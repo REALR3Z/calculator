@@ -296,7 +296,7 @@ tk.Label(
 
 tk.Label(
     header,
-    text="By Alexoukos/R3Z",
+    text="By Alexoukos/R3ZOX",
     font=("Segoe UI", 10, "bold"),
     fg="#777777",
     bg="#0b0b0b"
